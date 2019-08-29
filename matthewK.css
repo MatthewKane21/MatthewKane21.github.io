@@ -45,9 +45,9 @@ header,footer,#content {
 	border-color:#61a12d;
 }
 #wrapper {
-	margin-left:auto;
-	margin-right:auto;
-	width:80%;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
 	box-shadow:3px 3px 3px black;
 }
 ul{
